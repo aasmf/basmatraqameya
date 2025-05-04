@@ -1,78 +1,53 @@
 # بصمة رقمية
-احتياريDOCTYPE html>
+احتياري<!DOCTYPE html>
 <html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>بصمة رقمية</title>
-</head>
-<body>
-  <h1>مرحباً بكم في بصمة رقمية</h1>
-  <p>لكل فكرة... بصمتها الرقمية</p>
-</body>
-</html>
-<!DOCTYPE html><html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>بصمة رقمية</title>
   <style>
     body {
-      margin: 0;
-      font-family: 'Tajawal', sans-serif;
-      background-color: #fdfdfd;
+      font-family: 'Arial', sans-serif;
+      background-color: #fff8e1;
       color: #333;
-    }
-    header {
-      background-color: #FFD700;
-      color: #000;
-      padding: 40px 20px;
       text-align: center;
+      padding: 50px;
+      direction: rtl;
     }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
+    h1 {
+      color: #f5b700;
+      font-size: 48px;
     }
-    header p {
-      font-size: 1.2em;
-      margin-top: 10px;
+    h2 {
+      font-size: 24px;
+      color: #888;
+      margin-bottom: 40px;
     }
-    main {
-      padding: 40px 20px;
-      text-align: center;
+    p {
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 30px;
     }
-    a.contact {
+    a.whatsapp {
       display: inline-block;
-      margin-top: 30px;
-      padding: 15px 30px;
-      background-color: #000;
-      color: #fff;
+      background-color: #25d366;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 10px;
       text-decoration: none;
-      border-radius: 8px;
-      transition: 0.3s;
-    }
-    a.contact:hover {
-      background-color: #444;
-    }
-    footer {
-      margin-top: 60px;
-      text-align: center;
-      font-size: 0.9em;
-      color: #777;
+      font-size: 18px;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>بصمة رقمية</h1>
-    <p>لكل فكرة... بصمتها الرقمية</p>
-  </header>
-  <main>
-    <h2>مرحباً بكم في شركتكم المتخصصة في التصميم والتسويق الرقمي</h2>
-    <p>نساعدكم في إبراز فكرتكم بأفضل صورة رقمية عبر تصاميم جذابة وتسويق فعّال.</p>
-    <a class="contact" href="https://wa.me/967773971322">تواصل معنا عبر واتساب</a>
-  </main>
-  <footer>
-    &copy; 2025 بصمة رقمية. جميع الحقوق محفوظة.
-  </footer>
+
+  <h1>بصمة رقمية</h1>
+  <h2>لكل فكرة... بصمتها الرقمية</h2>
+
+  <p>مرحباً بكم في شركتكم المتخصصة في التصميم والتسويق الرقمي.</p>
+  <p>نساعدكم في إبراز فكرتكم بأفضل صورة رقمية عبر تصاميم جذابة وتسويق فعّال.</p>
+
+  <a class="whatsapp" href="https://wa.me/967773971322" target="_blank">تواصل معنا عبر واتساب</a>
+
 </body>
 </html>
