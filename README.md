@@ -39,7 +39,7 @@
     </style>
   </head>
   <body>
-    <img src="logo.png" alt="شعار بصمة رقمية" style="max-width: 200px; margin-bottom: 30px;" />
+    <img src="freepik__logo-with-a-black-background-featuring-a-fingerpri__80583.png" alt="شعار بصمة رقمية" style="max-width: 200px; margin-bottom: 30px;" />
     <h1>بصمة رقمية</h1>
     <h2>لكل فكرة... بصمتها الرقمية</h2>
     <p>مرحباً بكم في شركتكم المتخصصة في التصميم والتسويق الرقمي.</p>
